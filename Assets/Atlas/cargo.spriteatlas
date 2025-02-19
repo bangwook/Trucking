@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: cargo
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 49
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e15e0abfea024ab43b65f33054646fb7, type: 3}
+    totalSpriteSurfaceArea: 332592
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 86ed0250d289add499708f6b50dc78c8, type: 3}
+  - {fileID: 21300000, guid: 27886280f7d0e144f95d7cbdafb63bab, type: 3}
+  - {fileID: 21300000, guid: ff2d83d0f2c26324b84bb3173c32184c, type: 3}
+  - {fileID: 21300000, guid: d7182761a734a3c4ca61980caf6e2221, type: 3}
+  - {fileID: 21300000, guid: 60e09d71044c0284ea966b80d50335d5, type: 3}
+  - {fileID: 21300000, guid: 2b695dd17b2b300499cd60ff5d6e5b86, type: 3}
+  - {fileID: 21300000, guid: c6cddf026832ca744a527effbd85df2b, type: 3}
+  - {fileID: 21300000, guid: 42de38f21821bb64f935955dd1b5b7f9, type: 3}
+  - {fileID: 21300000, guid: f6f56503d058f304ebf1c9d21e1b1ea9, type: 3}
+  - {fileID: 21300000, guid: 98d54b73180860f4582c8bcf75e4d04c, type: 3}
+  - {fileID: 21300000, guid: ab57f893be14d8347896a9d37e225560, type: 3}
+  - {fileID: 21300000, guid: 418bcd043865ae04b9f4520f8010a29b, type: 3}
+  - {fileID: 21300000, guid: 33e7fbd4c74d92f479d9bedd64f274f9, type: 3}
+  - {fileID: 21300000, guid: 62934c052a4566a4fa06e7819f036178, type: 3}
+  - {fileID: 21300000, guid: 50b02e55865de334aa92ef3087bdd111, type: 3}
+  - {fileID: 21300000, guid: 88ddf9c57b7d6d94996b30ba6ec31a0d, type: 3}
+  - {fileID: 21300000, guid: 7a731ec56d373fa4a8f16cea09df01fc, type: 3}
+  - {fileID: 21300000, guid: d4786556741b4a94b9379b345b92384a, type: 3}
+  - {fileID: 21300000, guid: 1b4b68e6749b6be4c9524a0152c85a9e, type: 3}
+  - {fileID: 21300000, guid: 83498a07f1816c240abcbef06b9eb2b6, type: 3}
+  - {fileID: 21300000, guid: 3bb722d7d8d82894db4d0f0cb2d37a69, type: 3}
+  - {fileID: 21300000, guid: 1b607cf7b744f2a4f872c1ed8c82ab1a, type: 3}
+  - {fileID: 21300000, guid: 93857038c3a9df64287dc8112add177e, type: 3}
+  - {fileID: 21300000, guid: 281800a8191bab942a14091557ee2b07, type: 3}
+  - {fileID: 21300000, guid: d3bc5fa85e74781479aa0b32fd563413, type: 3}
+  - {fileID: 21300000, guid: a78a0ee81b76b54479e0ffa27dceb991, type: 3}
+  - {fileID: 21300000, guid: 78f30319e2d4ffd47bed99018cb89410, type: 3}
+  - {fileID: 21300000, guid: 01aecc79bcb30c641b36a84813766fb8, type: 3}
+  - {fileID: 21300000, guid: d5cd9999e868a3341985046ae2feea08, type: 3}
+  - {fileID: 21300000, guid: cba4434aa5c86214a91ac3a89009615a, type: 3}
+  - {fileID: 21300000, guid: 7d2cf06a9a3dc9c4596a07addcc0f38d, type: 3}
+  - {fileID: 21300000, guid: 11914cda7ef1dcb41b4e399e447c0777, type: 3}
+  - {fileID: 21300000, guid: 6d274cea837f98a43a0fbaffc242b0ce, type: 3}
+  - {fileID: 21300000, guid: 74b6f14bcffb55e46ba3f7c20b244342, type: 3}
+  - {fileID: 21300000, guid: cab97c5b2bb6df247babf80bf9f410e7, type: 3}
+  - {fileID: 21300000, guid: 560dd23c53f6a914389052e68841d77e, type: 3}
+  - {fileID: 21300000, guid: 8778c34c3a2a8644681b658503bf36e6, type: 3}
+  - {fileID: 21300000, guid: a6fff78c71dfa4743a5036d653d1c42e, type: 3}
+  - {fileID: 21300000, guid: d406539ce5b95aa4ea99eb01f6c69fd4, type: 3}
+  - {fileID: 21300000, guid: 237cd49cd4153484bb5824fdaa5aa076, type: 3}
+  - {fileID: 21300000, guid: 7bc237ccb20d41340bb567f3418b2573, type: 3}
+  - {fileID: 21300000, guid: a403eecc3c0a5a94d9f78063aab85909, type: 3}
+  - {fileID: 21300000, guid: 0c1e160d7e6c72142bac8acf5c628a30, type: 3}
+  - {fileID: 21300000, guid: 5f76155de53058b47bd4d1e2b2cce668, type: 3}
+  - {fileID: 21300000, guid: 2a3c679da0f7caf4b800a1a905f41a54, type: 3}
+  - {fileID: 21300000, guid: 9f5ccd3e155b7e94eb2b5c462673fe88, type: 3}
+  - {fileID: 21300000, guid: 66f09fce339a93d48ade3d0b2c2a4105, type: 3}
+  - {fileID: 21300000, guid: 44b6afeef2d2043479529fc02860a381, type: 3}
+  - {fileID: 21300000, guid: 68fc2f0fd28167444a7a368ac91d5dd7, type: 3}
+  - {fileID: 21300000, guid: d84baf4f35f633b44b6850bf0c007efb, type: 3}
+  - {fileID: 21300000, guid: 7cb4ec6f26a2c164bb4886b028c0d342, type: 3}
+  - {fileID: 21300000, guid: 55678d6fcb8438543bcbc1c209a8648d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - cago_item_034
+  - cago_item_016
+  - cago_item_001
+  - cago_item_025
+  - cago_item_general
+  - cago_item_008
+  - cago_item_028
+  - cago_item_033
+  - cago_item_037
+  - cago_item_005
+  - cago_item_020
+  - cago_item_036
+  - cago_item_011
+  - cago_item_031
+  - cago_item_035
+  - cago_item_022
+  - cago_item_048
+  - cago_item_038
+  - cago_item_040
+  - cago_item_019
+  - cago_item_018
+  - cago_item_013
+  - cago_item_027
+  - cago_item_023
+  - cago_item_044
+  - cago_item_004
+  - cago_item_014
+  - cago_item_042
+  - cago_item_007
+  - cago_item_010
+  - cago_item_024
+  - cago_item_015
+  - cago_item_003
+  - cago_item_002
+  - cago_item_041
+  - cago_item_049
+  - cago_item_045
+  - cago_item_012
+  - cago_item_006
+  - cago_item_029
+  - cago_item_046
+  - cago_item_026
+  - cago_item_017
+  - cago_item_transport
+  - cago_item_039
+  - cago_item_043
+  - cago_item_032
+  - cago_item_047
+  - cago_item_021
+  - cago_item_050
+  - cago_item_030
+  - cago_item_009
+  m_Tag: cargo
+  m_IsVariant: 0

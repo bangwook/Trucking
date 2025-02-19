@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "version": "0.5.8"
+  },
+  "savePath": "C:\\git\\Port\\Assets\\Port\\Resources\\Sprite Assets",
+  "images": [],
+  "folders": [
+    "C:/git/Port/Assets/Port/Sprites/Emoji"
+  ],
+  "packOptions": {
+    "textureName": "Emoji",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (array)",
+    "fileName": "pack-result",
+    "savePath": "C:\\git\\Port\\Assets\\Port\\Resources\\Sprite Assets",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": true,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": false,
+    "trimMode": "trim",
+    "detectIdentical": true,
+    "packer": "MaxRectsPacker",
+    "packerMethod": "Smart"
+  }
+}

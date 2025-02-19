@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "4275559722",
+    "firebase_url": "https://trucker-45619632.firebaseio.com",
+    "project_id": "trucker-45619632",
+    "storage_bucket": "trucker-45619632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4275559722:android:78d6e3ad3104175b",
+        "android_client_info": {
+          "package_name": "com.cookappsplay.truckergoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4275559722-kijad77b45mva0ef1qurmmg5ss21l4n0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "4275559722-n8itfkabiqids26loi4ku0fg1jr2in9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cookappsplay.truckergoogle",
+            "certificate_hash": "11cbda1f275438b4cc34cae35824e7a396a132f9"
+          }
+        },
+        {
+          "client_id": "4275559722-kijad77b45mva0ef1qurmmg5ss21l4n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC74nG_CgRSImmRdXB-2JC9M0ydkZItUg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4275559722-kijad77b45mva0ef1qurmmg5ss21l4n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

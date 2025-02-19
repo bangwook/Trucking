@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mission
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 51
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1df82b7b1d7707949ad3712d01d75c18, type: 3}
+    totalSpriteSurfaceArea: 1795200
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6b41ee1138e5bc1418bf7c65efce0d1a, type: 3}
+  - {fileID: 21300000, guid: a8998e71ea559634aaf7bd3ae647ee50, type: 3}
+  - {fileID: 21300000, guid: dc36b8f1319ef3f4f86b76b58f79071a, type: 3}
+  - {fileID: 21300000, guid: 03d99552689938040ab648b87c971b0d, type: 3}
+  - {fileID: 21300000, guid: d9e98503dfd40ab469e7262fc23b4957, type: 3}
+  - {fileID: 21300000, guid: b6bafb93aeef61b43a59f9542aa503d5, type: 3}
+  - {fileID: 21300000, guid: ee73169458d25db4a8f87af2f9757a50, type: 3}
+  - {fileID: 21300000, guid: 67d61d16b9772494790f6b214394f2bd, type: 3}
+  - {fileID: 21300000, guid: 4abcb3e62a122b74cb8e20b690f295f1, type: 3}
+  - {fileID: 21300000, guid: 7a587d1718ddc4d44b33028a28dff3a0, type: 3}
+  - {fileID: 21300000, guid: 920bac2702e40084b8f89e4b53905a70, type: 3}
+  - {fileID: 21300000, guid: 1a95e54719abd7d47b06006b99f83426, type: 3}
+  - {fileID: 21300000, guid: 38a49a675a04cbe429899071bfc6ff1f, type: 3}
+  - {fileID: 21300000, guid: cc06ba18f33a3d746b3855187ef37ce9, type: 3}
+  - {fileID: 21300000, guid: d08c0478260085e419a23440683eb448, type: 3}
+  - {fileID: 21300000, guid: a192ded861e21e144be94cb60931b796, type: 3}
+  - {fileID: 21300000, guid: 051b230b5fcb1fd40869023108b5fb71, type: 3}
+  - {fileID: 21300000, guid: 6190503b9f231344fa5a2333ac648065, type: 3}
+  - {fileID: 21300000, guid: 09b48d3b780f5674c82a98bc6f9a4e0a, type: 3}
+  - {fileID: 21300000, guid: 330d16cc0259d01438453803d3f8b17f, type: 3}
+  - {fileID: 21300000, guid: 819f5aad346e5be44a1543af4f668fe0, type: 3}
+  - {fileID: 21300000, guid: 7ffb776f0afd6f44cae14edd7c3d85b0, type: 3}
+  - {fileID: 21300000, guid: 5b64957fd681b384daf1ddb2a3a931e5, type: 3}
+  - {fileID: 21300000, guid: d3b4309f69e04f846a1caa1a4208de53, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - mission_image_018
+  - mission_image_024
+  - mission_image_022
+  - mission_image_014
+  - mission_image_019
+  - mission_image_013
+  - mission_image_016
+  - mission_image_005
+  - mission_image_020
+  - mission_image_004
+  - mission_image_006
+  - mission_image_001
+  - mission_image_012
+  - mission_image_015
+  - mission_image_023
+  - mission_image_008
+  - mission_image_002
+  - mission_image_007
+  - mission_image_011
+  - mission_image_017
+  - mission_image_010
+  - mission_image_009
+  - mission_image_021
+  - mission_image_003
+  m_Tag: mission
+  m_IsVariant: 0

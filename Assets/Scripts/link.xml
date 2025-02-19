@@ -1,0 +1,15 @@
+<linker>   
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Trucking.*" preserve="all"/>  
+		<type fullname="Datas.*" preserve="all"/>		
+	</assembly>
+	
+	<assembly fullname="UniRx">		
+		<type fullname="UniRx.ReactivePropertyConverter" preserve="all"/>
+	</assembly>	
+	<assembly fullname="System">
+        <type fullname="System.ComponentModel.ReferenceConverter">
+            <method signature="System.Void .ctor(System.Type)" />
+        </type>
+    </assembly>
+</linker>
